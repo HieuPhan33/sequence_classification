@@ -3,6 +3,9 @@ Please find the sequence-classification.ipynb notebook for model training.
 The data is stored in data/full-data.csv
 
 If you find this repository useful, please cite our paper:
+
+### Citation
+```
 @inproceedings{nguyen2020hybrid,
   title={A Hybrid Approach for Intrusive Appliance Load Monitoring in Smart Home},
   author={Nguyen, Vanh Khuyen and Phan, Minh-Hieu and Zhang, Wei Emma and Sheng, Quan Z and Vo, Trung Duc},
@@ -11,3 +14,4 @@ If you find this repository useful, please cite our paper:
   year={2020},
   organization={IEEE}
 }
+```
