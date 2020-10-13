@@ -1,0 +1,1406 @@
+﻿Time,Power,Class
+1,0.072,washing machine
+2,0.108,washing machine
+3,0.135,washing machine
+4,0.195,washing machine
+5,0.21,washing machine
+6,0.201,washing machine
+7,0.207,washing machine
+8,0.147,washing machine
+9,0.153,washing machine
+10,0.165,washing machine
+11,0.186,washing machine
+12,0.132,washing machine
+13,0.135,washing machine
+14,0.204,washing machine
+15,0.168,washing machine
+16,0.123,washing machine
+17,0.108,washing machine
+18,0.186,washing machine
+19,0.21,washing machine
+20,0.111,washing machine
+21,0.117,washing machine
+22,0.078,washing machine
+23,0.165,washing machine
+24,0.078,washing machine
+25,0.165,washing machine
+26,0.138,washing machine
+27,0.147,washing machine
+28,0.189,washing machine
+29,0.138,washing machine
+30,0.147,washing machine
+31,0.141,washing machine
+32,0.108,washing machine
+33,0.177,washing machine
+34,0.129,washing machine
+35,0.126,washing machine
+36,0.177,washing machine
+37,0.159,washing machine
+38,0.156,washing machine
+39,0.147,washing machine
+40,0.258,washing machine
+41,0.096,washing machine
+42,0.132,washing machine
+43,0.258,washing machine
+44,0.273,washing machine
+45,0.057,washing machine
+46,0.117,washing machine
+47,0.129,washing machine
+48,0.108,washing machine
+49,0.123,washing machine
+50,0.168,washing machine
+51,0.216,washing machine
+52,0.057,washing machine
+53,0.168,washing machine
+54,0.285,washing machine
+55,0.246,washing machine
+56,0.33,washing machine
+57,0.198,washing machine
+58,0.144,washing machine
+59,0.189,washing machine
+60,0.162,washing machine
+61,0.177,washing machine
+62,0.186,washing machine
+63,0.207,washing machine
+64,0.135,washing machine
+65,0.144,washing machine
+66,0.207,washing machine
+67,0.09,washing machine
+68,0.123,washing machine
+69,0.09,washing machine
+70,0.255,washing machine
+71,0.168,washing machine
+72,0.36,washing machine
+73,0.351,washing machine
+74,0.321,washing machine
+75,0.186,washing machine
+76,0.171,washing machine
+77,0.171,washing machine
+78,0.165,washing machine
+79,0.177,washing machine
+80,0.222,washing machine
+81,0.201,washing machine
+82,0.216,washing machine
+83,0.234,washing machine
+84,0.204,washing machine
+85,0.039,washing machine
+86,0.075,washing machine
+87,0,None
+88,0.048,washing machine
+89,0.108,washing machine
+90,0.153,washing machine
+91,0.237,washing machine
+92,0.27,washing machine
+93,0.849,washing machine
+94,1.371,washing machine
+95,1.233,washing machine
+96,1.176,washing machine
+97,1.227,washing machine
+98,1.227,washing machine
+99,0.309,washing machine
+100,0.198,washing machine
+101,0.189,washing machine
+102,0.174,washing machine
+103,0.123,washing machine
+104,0.252,washing machine
+105,0.141,washing machine
+106,0.177,washing machine
+107,0.204,washing machine
+108,0.111,washing machine
+109,0.09,washing machine
+110,0.084,washing machine
+111,0.138,washing machine
+112,0.144,washing machine
+113,0.243,washing machine
+114,0.183,washing machine
+115,0.132,washing machine
+116,0.105,washing machine
+117,0.087,washing machine
+118,0.138,washing machine
+119,0.234,washing machine
+120,0.186,washing machine
+121,0.234,washing machine
+122,0.066,washing machine
+123,0.129,washing machine
+124,0.243,washing machine
+125,0.195,washing machine
+126,0.144,washing machine
+127,0.198,washing machine
+128,0.198,washing machine
+129,0.183,washing machine
+130,0.117,washing machine
+131,0.177,washing machine
+132,0.297,washing machine
+133,0.327,washing machine
+134,0.24,washing machine
+135,0.117,washing machine
+136,0.294,washing machine
+137,0.192,washing machine
+138,0.201,washing machine
+139,0.174,washing machine
+140,0.186,washing machine
+141,0.219,washing machine
+142,0.084,washing machine
+143,0.186,washing machine
+144,0.312,washing machine
+145,0.471,washing machine
+146,0.366,washing machine
+147,0.126,washing machine
+148,0.147,washing machine
+149,0.201,washing machine
+150,0.12,washing machine
+151,0.165,washing machine
+152,0.195,washing machine
+153,0.138,washing machine
+154,0.222,washing machine
+155,0.126,washing machine
+156,0.102,washing machine
+157,0.147,washing machine
+158,0.195,washing machine
+159,0.111,washing machine
+160,0.327,washing machine
+161,0.468,washing machine
+162,0.345,washing machine
+163,0.081,washing machine
+164,0.174,washing machine
+165,0.189,washing machine
+166,0.162,washing machine
+167,0.258,washing machine
+168,0.237,washing machine
+169,0.339,washing machine
+170,0.33,washing machine
+171,0.261,washing machine
+172,0.045,washing machine
+173,0.078,washing machine
+174,0,None
+175,0.051,washing machine
+176,0.036,washing machine
+177,0.147,washing machine
+178,0.12,washing machine
+179,0.093,washing machine
+180,0.069,washing machine
+181,0.087,washing machine
+182,0.093,washing machine
+183,0.192,washing machine
+184,0.075,washing machine
+185,0.084,washing machine
+186,0.018,washing machine
+187,0.057,washing machine
+188,0.177,washing machine
+189,0.237,washing machine
+190,0.15,washing machine
+191,0.147,washing machine
+192,0.288,washing machine
+193,0.339,washing machine
+194,0.411,washing machine
+195,0.327,washing machine
+196,0.033,washing machine
+197,0.051,washing machine
+198,0,None
+199,0.084,washing machine
+200,0.117,washing machine
+201,0.279,washing machine
+202,0.285,washing machine
+203,0.153,washing machine
+204,0.27,washing machine
+205,0.192,washing machine
+206,0.126,washing machine
+207,0.075,washing machine
+208,0.198,washing machine
+209,0.12,washing machine
+210,0.237,washing machine
+211,0.138,washing machine
+212,0.159,washing machine
+213,0.219,washing machine
+214,0.135,washing machine
+215,0.171,washing machine
+216,0.174,washing machine
+217,0.186,washing machine
+218,0.153,washing machine
+219,0.198,washing machine
+220,0.147,washing machine
+221,0.099,washing machine
+222,0.204,washing machine
+223,0.18,washing machine
+224,0.18,washing machine
+225,0.201,washing machine
+226,0.141,washing machine
+227,0.168,washing machine
+228,0.159,washing machine
+229,0.171,washing machine
+230,0.123,washing machine
+231,0.207,washing machine
+232,0.18,washing machine
+233,0.132,washing machine
+234,0.15,washing machine
+235,0.168,washing machine
+236,0.117,washing machine
+237,0.156,washing machine
+238,0.201,washing machine
+239,0.129,washing machine
+240,0.198,washing machine
+241,0.288,washing machine
+242,0.294,washing machine
+243,0.375,washing machine
+244,0.114,washing machine
+245,0.159,washing machine
+246,0.174,washing machine
+247,0.231,washing machine
+248,0.162,washing machine
+249,0.219,washing machine
+250,0.183,washing machine
+251,0.057,washing machine
+252,0.18,washing machine
+253,0.321,washing machine
+254,0.327,washing machine
+255,0.369,washing machine
+256,0.045,washing machine
+257,0.192,washing machine
+258,0.159,washing machine
+259,0.231,washing machine
+260,0.195,washing machine
+261,0.141,washing machine
+262,0.126,washing machine
+263,0.228,washing machine
+264,0.177,washing machine
+265,0.078,washing machine
+266,0.144,washing machine
+267,0.189,washing machine
+268,0.21,washing machine
+269,0.531,washing machine
+270,0.327,washing machine
+271,0.246,washing machine
+272,0.165,washing machine
+273,0.237,washing machine
+274,0.189,washing machine
+275,0.174,washing machine
+276,0.129,washing machine
+277,0.192,washing machine
+278,0.246,washing machine
+279,0.216,washing machine
+280,0.27,washing machine
+281,0.318,washing machine
+282,0.261,washing machine
+283,0.042,washing machine
+284,0.087,washing machine
+285,0,None
+286,0,fridge
+287,0,fridge
+288,0,fridge
+289,0,fridge
+290,0,fridge
+291,0,fridge
+292,0,fridge
+293,0,fridge
+294,0,fridge
+295,0,fridge
+296,0,fridge
+297,0,fridge
+298,0,fridge
+299,0,fridge
+300,0.186,fridge
+301,0.174,fridge
+302,0.189,fridge
+303,0.174,fridge
+304,0.093,fridge
+305,0.12,fridge
+306,0.156,fridge
+307,0.156,fridge
+308,0.153,fridge
+309,0.135,fridge
+310,0.159,fridge
+311,0.159,fridge
+312,0.153,fridge
+313,0.156,fridge
+314,0.153,fridge
+315,0.15,fridge
+316,0.153,fridge
+317,0.15,fridge
+318,0.153,fridge
+319,0.153,fridge
+320,0.153,fridge
+321,0.123,fridge
+322,0.156,fridge
+323,0.156,fridge
+324,0.168,fridge
+325,0.204,fridge
+326,0.129,fridge
+327,0.156,fridge
+328,0.138,fridge
+329,0.108,fridge
+330,0.201,fridge
+331,0.12,fridge
+332,0,fridge
+333,0,fridge
+334,0,fridge
+335,0,fridge
+336,0,fridge
+337,0,fridge
+338,0,fridge
+339,0,fridge
+340,0,fridge
+341,0,fridge
+342,0,fridge
+343,0,fridge
+344,0,fridge
+345,0,fridge
+346,0,fridge
+347,0,fridge
+348,0,fridge
+349,0,fridge
+350,0,fridge
+351,0,fridge
+352,0,fridge
+353,0,fridge
+354,0,fridge
+355,0,fridge
+356,0,fridge
+357,0.147,fridge
+358,0.183,fridge
+359,0.186,fridge
+360,0.141,fridge
+361,0.15,fridge
+362,0.156,fridge
+363,0.15,fridge
+364,0.153,fridge
+365,0.165,fridge
+366,0.156,fridge
+367,0.15,fridge
+368,0.153,fridge
+369,0.156,fridge
+370,0.144,fridge
+371,0.15,fridge
+372,0.141,fridge
+373,0.15,fridge
+374,0.162,fridge
+375,0.084,fridge
+376,0.153,fridge
+377,0.153,fridge
+378,0.147,fridge
+379,0.147,fridge
+380,0.129,fridge
+381,0.09,fridge
+382,0,fridge
+383,0,fridge
+384,0,fridge
+385,0,fridge
+386,0,fridge
+387,0,fridge
+388,0,fridge
+389,0,fridge
+390,0,fridge
+391,0,fridge
+392,0,fridge
+393,0,fridge
+394,0,fridge
+395,0,fridge
+396,0,fridge
+397,0,fridge
+398,0,fridge
+399,0,fridge
+400,0,fridge
+401,0,fridge
+402,0,fridge
+403,0,fridge
+404,0,fridge
+405,0,fridge
+406,0.066,fridge
+407,0.195,fridge
+408,0.162,fridge
+409,0.147,fridge
+410,0.18,fridge
+411,0.144,fridge
+412,0.183,fridge
+413,0.15,fridge
+414,0.165,fridge
+415,0.15,fridge
+416,0.144,fridge
+417,0.156,fridge
+418,0.153,fridge
+419,0.162,fridge
+420,0.144,fridge
+421,0.15,fridge
+422,0.114,fridge
+423,0.147,fridge
+424,0.132,fridge
+425,0.135,fridge
+426,0.174,fridge
+427,0.144,fridge
+428,0.135,fridge
+429,0.15,fridge
+430,0.141,fridge
+431,0.099,fridge
+432,0,fridge
+433,0,fridge
+434,0,fridge
+435,0,fridge
+436,0,fridge
+437,0,fridge
+438,0,fridge
+439,0,fridge
+440,0,fridge
+441,0,fridge
+442,0,fridge
+443,0,fridge
+444,0,fridge
+445,0,fridge
+446,0,fridge
+447,0,fridge
+448,0,fridge
+449,0,fridge
+450,0,fridge
+451,0,fridge
+452,0,fridge
+453,0,fridge
+454,0,fridge
+455,0,fridge
+456,0,fridge
+457,0,fridge
+458,0.108,fridge
+459,0.168,fridge
+460,0.168,fridge
+461,0.192,fridge
+462,0.144,fridge
+463,0.15,fridge
+464,0.15,fridge
+465,0.141,fridge
+466,0.177,fridge
+467,0.168,fridge
+468,0.132,fridge
+469,0.15,fridge
+470,0.135,fridge
+471,0.144,fridge
+472,0.147,fridge
+473,0.096,fridge
+474,0.144,fridge
+475,0.144,fridge
+476,0.135,fridge
+477,0.108,fridge
+478,0.138,fridge
+479,0.144,fridge
+480,0.087,fridge
+481,0,fridge
+482,0,fridge
+483,0,fridge
+484,0,fridge
+485,0,fridge
+486,0,fridge
+487,0,fridge
+488,0,fridge
+489,0,fridge
+490,0,fridge
+491,0,fridge
+492,0,fridge
+493,0,fridge
+494,0,fridge
+495,0,fridge
+496,0,fridge
+497,0,fridge
+498,0,fridge
+499,0,fridge
+500,0,fridge
+501,0,fridge
+502,0,fridge
+503,0,fridge
+504,0,fridge
+505,0,fridge
+506,0,fridge
+507,0.096,fridge
+508,0.201,fridge
+509,0.177,fridge
+510,0.147,fridge
+511,0.165,fridge
+512,0.123,fridge
+513,0.147,fridge
+514,0.171,fridge
+515,0.147,fridge
+516,0.153,fridge
+517,0.147,fridge
+518,0.153,fridge
+519,0.15,fridge
+520,0.141,fridge
+521,0.129,fridge
+522,0.144,fridge
+523,0.153,fridge
+524,0.147,fridge
+525,0.084,fridge
+526,0.144,fridge
+527,0.123,fridge
+528,0.111,fridge
+529,0.039,fridge
+530,0,fridge
+531,0,fridge
+532,0,fridge
+533,0,fridge
+534,0,fridge
+535,0,fridge
+536,0,fridge
+537,0,fridge
+538,0,fridge
+539,0,fridge
+540,0,fridge
+541,0,fridge
+542,0,fridge
+543,0,fridge
+544,0,fridge
+545,0,fridge
+546,0,fridge
+547,0,fridge
+548,0,fridge
+549,0,fridge
+550,0,fridge
+551,0,fridge
+552,0,fridge
+553,0,fridge
+554,0,fridge
+555,0,fridge
+556,0.087,fridge
+557,0.156,fridge
+558,0.144,fridge
+559,0.126,fridge
+560,0.141,fridge
+561,0.129,fridge
+562,0.135,fridge
+563,0.147,fridge
+564,0.138,fridge
+565,0.144,fridge
+566,0.141,fridge
+567,0.165,fridge
+568,0.138,fridge
+569,0.147,fridge
+570,0.138,fridge
+571,0.153,fridge
+572,0.168,fridge
+573,0.141,fridge
+574,0.144,fridge
+575,0.147,fridge
+576,0.147,fridge
+577,0.141,fridge
+578,0.009,fridge
+579,0,fridge
+580,0,fridge
+581,0,fridge
+582,0,fridge
+583,0,fridge
+584,0,fridge
+585,0,fridge
+586,0,fridge
+587,0,fridge
+588,0,fridge
+589,0,fridge
+590,0,fridge
+591,0,fridge
+592,0,fridge
+593,0,fridge
+594,0,fridge
+595,0,fridge
+596,0,fridge
+597,0,fridge
+598,0,fridge
+599,0,fridge
+600,0,fridge
+601,0,fridge
+602,0,fridge
+603,0,fridge
+604,0,fridge
+605,0.078,fridge
+606,0.153,fridge
+607,0.159,fridge
+608,0.192,fridge
+609,0.144,fridge
+610,0.144,fridge
+611,0.141,fridge
+612,0.144,fridge
+613,0.117,fridge
+614,0.153,fridge
+615,0.15,fridge
+616,0.135,fridge
+617,0.165,fridge
+618,0.135,fridge
+619,0.144,fridge
+620,0.159,fridge
+621,0.135,fridge
+622,0.153,fridge
+623,0.153,fridge
+624,0.114,fridge
+625,0.144,fridge
+626,0.045,fridge
+627,0,fridge
+628,0,fridge
+629,0,fridge
+630,0,fridge
+631,0,fridge
+632,0,fridge
+633,0,fridge
+634,0,fridge
+635,0,fridge
+636,0,fridge
+637,0,fridge
+638,0,fridge
+639,0,fridge
+640,0,fridge
+641,0,fridge
+642,0,fridge
+643,0,fridge
+644,0,fridge
+645,0,fridge
+646,0,fridge
+647,0,fridge
+648,0,fridge
+649,0,fridge
+650,0,fridge
+651,0,fridge
+652,0,fridge
+653,0.048,fridge
+654,0.162,fridge
+655,0.138,fridge
+656,0.141,fridge
+657,0.072,fridge
+658,0.156,fridge
+659,0.141,fridge
+660,0.165,fridge
+661,0.126,fridge
+662,0.141,fridge
+663,0.132,fridge
+664,0.126,fridge
+665,0.132,fridge
+666,0.15,fridge
+667,0.141,fridge
+668,0.15,fridge
+669,0.123,fridge
+670,0.132,fridge
+671,0.141,fridge
+672,0.144,fridge
+673,0.138,fridge
+674,0.138,fridge
+675,0,fridge
+676,0,fridge
+677,0,fridge
+678,0,fridge
+679,0,fridge
+680,0,fridge
+681,0,fridge
+682,0,fridge
+683,0,fridge
+684,0,fridge
+685,0,fridge
+686,0,fridge
+687,0,fridge
+688,0,fridge
+689,0,fridge
+690,0,fridge
+691,0,fridge
+692,0,fridge
+693,0,fridge
+694,0,fridge
+695,0,fridge
+696,0,fridge
+697,0,fridge
+698,0,fridge
+699,0,fridge
+700,0,fridge
+701,0,fridge
+702,0.159,fridge
+703,0.144,fridge
+704,0.156,fridge
+705,0.15,fridge
+706,0.123,fridge
+707,0.165,fridge
+708,0.111,fridge
+709,0.168,fridge
+710,0.135,fridge
+711,0.141,fridge
+712,0.141,fridge
+713,0.153,fridge
+714,0.135,fridge
+715,0.138,fridge
+716,0.141,fridge
+717,0.141,fridge
+718,0.141,fridge
+719,0.129,fridge
+720,0.144,fridge
+721,0.135,fridge
+722,0.129,fridge
+723,0.048,fridge
+724,0,fridge
+725,0,fridge
+726,0,fridge
+727,0,fridge
+728,0,fridge
+729,0,fridge
+730,0,fridge
+731,0,fridge
+732,0,fridge
+733,0,fridge
+734,0,fridge
+735,0,fridge
+736,0,fridge
+737,0,fridge
+738,0,fridge
+739,0,fridge
+740,0,fridge
+741,0,fridge
+742,0,fridge
+743,0,fridge
+744,0,fridge
+745,0,fridge
+746,0,fridge
+747,0,fridge
+748,0,fridge
+749,0,fridge
+750,0.024,fridge
+751,0.222,fridge
+752,0.189,fridge
+753,0.156,fridge
+754,0.156,fridge
+755,0.156,fridge
+756,0.147,fridge
+757,0.144,fridge
+758,0.156,fridge
+759,0.147,fridge
+760,0.135,fridge
+761,0.174,fridge
+762,0.156,fridge
+763,0.144,fridge
+764,0.147,fridge
+765,0.105,fridge
+766,0.153,fridge
+767,0.156,fridge
+768,0.147,fridge
+769,0.177,fridge
+770,0.126,fridge
+771,0.129,fridge
+772,0,fridge
+773,0,fridge
+774,0,fridge
+775,0,fridge
+776,0,fridge
+777,0,fridge
+778,0,fridge
+779,0,fridge
+780,0,fridge
+781,0,fridge
+782,0,fridge
+783,0,fridge
+784,0,fridge
+785,0,fridge
+786,0,fridge
+787,0,fridge
+788,0,fridge
+789,0,fridge
+790,0,fridge
+791,0,fridge
+792,0,fridge
+793,0,fridge
+794,0,fridge
+795,0,fridge
+796,0,fridge
+797,0,fridge
+798,0,fridge
+799,0.099,fridge
+800,0.177,fridge
+801,0.153,fridge
+802,0.147,fridge
+803,0.114,fridge
+804,0.156,fridge
+805,0.15,fridge
+806,0.123,fridge
+807,0.129,fridge
+808,0.153,fridge
+809,0.138,fridge
+810,0.138,fridge
+811,0.174,fridge
+812,0.141,fridge
+813,0.141,fridge
+814,0.15,fridge
+815,0.144,fridge
+816,0.123,fridge
+817,0.156,fridge
+818,0.138,fridge
+819,0.138,fridge
+820,0.018,fridge
+821,0,fridge
+822,0,fridge
+823,0,fridge
+824,0,fridge
+825,0,fridge
+826,0,fridge
+827,0,fridge
+828,0,fridge
+829,0,fridge
+830,0,fridge
+831,0,fridge
+832,0,fridge
+833,0,fridge
+834,0,fridge
+835,0,fridge
+836,0,fridge
+837,0,fridge
+838,0,fridge
+839,0,fridge
+840,0,fridge
+841,0,fridge
+842,0,fridge
+843,0,fridge
+844,0,fridge
+845,0,fridge
+846,0,fridge
+847,0.033,fridge
+848,0.18,fridge
+849,0.15,fridge
+850,0.147,fridge
+851,0.147,fridge
+852,0.144,fridge
+853,0.129,fridge
+854,0.156,fridge
+855,0.141,fridge
+856,0.141,fridge
+857,0.12,fridge
+858,0.09,fridge
+859,0.141,fridge
+860,0.144,fridge
+861,0.144,fridge
+862,0.141,fridge
+863,0.141,fridge
+864,0.138,fridge
+865,0.138,fridge
+866,0.129,fridge
+867,0.12,fridge
+868,0.123,fridge
+869,0,fridge
+870,0,fridge
+871,0,fridge
+872,0,fridge
+873,0,fridge
+874,0,fridge
+875,0,fridge
+876,0,fridge
+877,0,fridge
+878,0,fridge
+879,0,fridge
+880,0,fridge
+881,0,fridge
+882,0,fridge
+883,0,fridge
+884,0,fridge
+885,0,fridge
+886,0,fridge
+887,0,fridge
+888,0,fridge
+889,0,fridge
+890,0,fridge
+891,0,fridge
+892,0,fridge
+893,0,fridge
+894,0,fridge
+895,0,fridge
+896,0.156,fridge
+897,0.153,fridge
+898,0.159,fridge
+899,0.144,fridge
+900,0.171,fridge
+901,0.15,fridge
+902,0.147,fridge
+903,0.156,fridge
+904,0.141,fridge
+905,0.144,fridge
+906,0.138,fridge
+907,0.141,fridge
+908,0.165,fridge
+909,0.165,fridge
+910,0.168,fridge
+911,0.138,fridge
+912,0.132,fridge
+913,0.168,fridge
+914,0.132,fridge
+915,0.138,fridge
+916,0.108,fridge
+917,0,fridge
+918,0,fridge
+919,0,fridge
+920,0,fridge
+921,0,fridge
+922,0,fridge
+923,0,fridge
+924,0,fridge
+925,0,fridge
+926,0,fridge
+927,0,fridge
+928,0,fridge
+929,0,fridge
+930,0,fridge
+931,0,fridge
+932,0,fridge
+933,0,fridge
+934,0,fridge
+935,0,fridge
+936,0,fridge
+937,0,fridge
+938,0,fridge
+939,0,fridge
+940,0,fridge
+941,0,fridge
+942,0,fridge
+943,0,fridge
+944,0.108,fridge
+945,0.153,fridge
+946,0.153,fridge
+947,0.147,fridge
+948,0.144,fridge
+949,0.12,fridge
+950,0.141,fridge
+951,0.138,fridge
+952,0.15,fridge
+953,0.132,fridge
+954,0.174,fridge
+955,0.198,fridge
+956,0.171,fridge
+957,0.174,fridge
+958,0.168,fridge
+959,0.141,fridge
+960,0.144,fridge
+961,0.147,fridge
+962,0.144,fridge
+963,0.135,fridge
+964,0.123,fridge
+965,0.012,fridge
+966,0,fridge
+967,0,fridge
+968,0,fridge
+969,0,fridge
+970,0,fridge
+971,0,fridge
+972,0,fridge
+973,0,fridge
+974,0,fridge
+975,0,fridge
+976,0,fridge
+977,0,fridge
+978,0,fridge
+979,0,fridge
+980,0,fridge
+981,0,fridge
+982,0,fridge
+983,0,fridge
+984,0,fridge
+985,0,fridge
+986,0,fridge
+987,0,fridge
+988,0,fridge
+989,0,fridge
+990,0,fridge
+991,0,fridge
+992,0.063,fridge
+993,0.111,fridge
+994,0.186,fridge
+995,0.168,fridge
+996,0.186,fridge
+997,0.126,fridge
+998,0.126,fridge
+999,0.153,fridge
+1000,0.147,fridge
+1001,0.15,fridge
+1002,0.12,fridge
+1003,0.147,fridge
+1004,0.159,fridge
+1005,0.102,fridge
+1006,0.123,fridge
+1007,0.108,fridge
+1008,0.165,fridge
+1009,0.174,fridge
+1010,0.153,fridge
+1011,0.141,fridge
+1012,0.153,fridge
+1013,0.135,fridge
+1014,0.123,fridge
+1015,0,fridge
+1016,0,fridge
+1017,0,fridge
+1018,0,fridge
+1019,0,fridge
+1020,0,fridge
+1021,0,fridge
+1022,0,fridge
+1023,0,fridge
+1024,0,fridge
+1025,0,fridge
+1026,0,fridge
+1027,0,fridge
+1028,0,fridge
+1029,0,fridge
+1030,0,fridge
+1031,0,fridge
+1032,0,fridge
+1033,0,fridge
+1034,0,fridge
+1035,0,fridge
+1036,0,fridge
+1037,0,fridge
+1038,0,fridge
+1039,0,fridge
+1040,0,fridge
+1041,0.114,fridge
+1042,0.171,fridge
+1043,0.144,fridge
+1044,0.156,fridge
+1045,0.15,fridge
+1046,0.117,fridge
+1047,0.114,fridge
+1048,0.156,fridge
+1049,0.141,fridge
+1050,0.135,fridge
+1051,0.153,fridge
+1052,0.165,fridge
+1053,0.171,fridge
+1054,0.135,fridge
+1055,0.132,fridge
+1056,0.144,fridge
+1057,0.195,fridge
+1058,0.195,fridge
+1059,0.192,fridge
+1060,0.201,fridge
+1061,0.195,fridge
+1062,0.189,fridge
+1063,0.201,fridge
+1064,0.183,fridge
+1065,0.159,fridge
+1066,0.201,fridge
+1067,0.24,fridge
+1068,0.171,fridge
+1069,0.183,fridge
+1070,0.228,fridge
+1071,0.168,fridge
+1072,0.078,fridge
+1073,0.168,fridge
+1074,0.195,fridge
+1075,0.18,fridge
+1076,0.168,fridge
+1077,0.126,fridge
+1078,0.189,fridge
+1079,0.183,fridge
+1080,0.18,fridge
+1081,0.186,fridge
+1082,0.015,fridge
+1083,0,fridge
+1084,0,fridge
+1085,0,fridge
+1086,0,fridge
+1087,0,fridge
+1088,0,fridge
+1089,0,fridge
+1090,0,fridge
+1091,0.237,fridge
+1092,0.186,fridge
+1093,0.255,fridge
+1094,0.219,fridge
+1095,0.201,fridge
+1096,0.201,fridge
+1097,0.207,fridge
+1098,0.177,fridge
+1099,0.195,fridge
+1100,0.138,fridge
+1101,0.159,fridge
+1102,0.162,fridge
+1103,0.168,fridge
+1104,0.171,fridge
+1105,0.171,fridge
+1106,0.138,fridge
+1107,0.162,fridge
+1108,0.174,fridge
+1109,0.114,fridge
+1110,0.165,fridge
+1111,0,None
+1112,0.084,macbook air
+1113,0.108,macbook air
+1114,0.111,macbook air
+1115,0.12,macbook air
+1116,0.108,macbook air
+1117,0.162,macbook air
+1118,0.108,macbook air
+1119,0.117,macbook air
+1120,0.108,macbook air
+1121,0.117,macbook air
+1122,0.126,macbook air
+1123,0.135,macbook air
+1124,0.117,macbook air
+1125,0.093,macbook air
+1126,0.117,macbook air
+1127,0.099,macbook air
+1128,0.072,macbook air
+1129,0.105,macbook air
+1130,0.075,macbook air
+1131,0.075,macbook air
+1132,0.072,macbook air
+1133,0.075,macbook air
+1134,0.066,macbook air
+1135,0.066,macbook air
+1136,0.06,macbook air
+1137,0.093,macbook air
+1138,0.075,macbook air
+1139,0.072,macbook air
+1140,0.069,macbook air
+1141,0.066,macbook air
+1142,0.063,macbook air
+1143,0.081,macbook air
+1144,0.042,macbook air
+1145,0.042,macbook air
+1146,0.072,macbook air
+1147,0.054,macbook air
+1148,0.057,macbook air
+1149,0.084,macbook air
+1150,0.057,macbook air
+1151,0.066,macbook air
+1152,0.063,macbook air
+1153,0.06,macbook air
+1154,0.06,macbook air
+1155,0.051,macbook air
+1156,0.06,macbook air
+1157,0.069,macbook air
+1158,0.066,macbook air
+1159,0.075,macbook air
+1160,0.057,macbook air
+1161,0.054,macbook air
+1162,0.054,macbook air
+1163,0.051,macbook air
+1164,0.054,macbook air
+1165,0.063,macbook air
+1166,0.051,macbook air
+1167,0.06,macbook air
+1168,0.048,macbook air
+1169,0.051,macbook air
+1170,0.048,macbook air
+1171,0.054,macbook air
+1172,0.051,macbook air
+1173,0.051,macbook air
+1174,0.048,macbook air
+1175,0.048,macbook air
+1176,0.039,macbook air
+1177,0.039,macbook air
+1178,0.063,macbook air
+1179,0.027,macbook air
+1180,0.039,macbook air
+1181,0.042,macbook air
+1182,0.042,macbook air
+1183,0.042,macbook air
+1184,0.042,macbook air
+1185,0.039,macbook air
+1186,0.042,macbook air
+1187,0.042,macbook air
+1188,0.036,macbook air
+1189,0.036,macbook air
+1190,0.036,macbook air
+1191,0.03,macbook air
+1192,0.033,macbook air
+1193,0.033,macbook air
+1194,0.036,macbook air
+1195,0.03,macbook air
+1196,0.03,macbook air
+1197,0.024,macbook air
+1198,0.03,macbook air
+1199,0.027,macbook air
+1200,0,None
+1201,0.069,macbook air
+1202,0.114,macbook air
+1203,0.081,macbook air
+1204,0.114,macbook air
+1205,0.084,macbook air
+1206,0.111,macbook air
+1207,0.111,macbook air
+1208,0.096,macbook air
+1209,0.102,macbook air
+1210,0.105,macbook air
+1211,0.099,macbook air
+1212,0.102,macbook air
+1213,0.105,macbook air
+1214,0.111,macbook air
+1215,0.096,macbook air
+1216,0.093,macbook air
+1217,0.054,macbook air
+1218,0.054,macbook air
+1219,0.078,macbook air
+1220,0.084,macbook air
+1221,0.081,macbook air
+1222,0.078,macbook air
+1223,0.072,macbook air
+1224,0.072,macbook air
+1225,0.051,macbook air
+1226,0.078,macbook air
+1227,0.06,macbook air
+1228,0.075,macbook air
+1229,0.06,macbook air
+1230,0.054,macbook air
+1231,0.054,macbook air
+1232,0.051,macbook air
+1233,0.063,macbook air
+1234,0.081,macbook air
+1235,0.114,macbook air
+1236,0.147,macbook air
+1237,0.117,macbook air
+1238,0.054,macbook air
+1239,0.081,macbook air
+1240,0.075,macbook air
+1241,0.075,macbook air
+1242,0.051,macbook air
+1243,0.084,macbook air
+1244,0.075,macbook air
+1245,0.075,macbook air
+1246,0.099,macbook air
+1247,0.111,macbook air
+1248,0.09,macbook air
+1249,0.072,macbook air
+1250,0.078,macbook air
+1251,0.087,macbook air
+1252,0.072,macbook air
+1253,0.081,macbook air
+1254,0.072,macbook air
+1255,0.075,macbook air
+1256,0.075,macbook air
+1257,0.051,macbook air
+1258,0.081,macbook air
+1259,0.069,macbook air
+1260,0.066,macbook air
+1261,0.078,macbook air
+1262,0.066,macbook air
+1263,0.069,macbook air
+1264,0.066,macbook air
+1265,0.066,macbook air
+1266,0.063,macbook air
+1267,0.057,macbook air
+1268,0.048,macbook air
+1269,0.072,macbook air
+1270,0.042,macbook air
+1271,0.051,macbook air
+1272,0.048,macbook air
+1273,0.051,macbook air
+1274,0.045,macbook air
+1275,0.042,macbook air
+1276,0.048,macbook air
+1277,0.048,macbook air
+1278,0.048,macbook air
+1279,0.048,macbook air
+1280,0.045,macbook air
+1281,0.051,macbook air
+1282,0.066,macbook air
+1283,0.063,macbook air
+1284,0.066,macbook air
+1285,0.057,macbook air
+1286,0.06,macbook air
+1287,0.06,macbook air
+1288,0.057,macbook air
+1289,0.057,macbook air
+1290,0.063,macbook air
+1291,0.066,macbook air
+1292,0.066,macbook air
+1293,0.045,macbook air
+1294,0.051,macbook air
+1295,0.057,macbook air
+1296,0.048,macbook air
+1297,0.048,macbook air
+1298,0.06,macbook air
+1299,0.057,macbook air
+1300,0.06,macbook air
+1301,0.054,macbook air
+1302,0.042,macbook air
+1303,0,None
+1304,0.054,macbook air
+1305,0.063,macbook air
+1306,0.069,macbook air
+1307,0.087,macbook air
+1308,0.072,macbook air
+1309,0.066,macbook air
+1310,0.054,macbook air
+1311,0.057,macbook air
+1312,0.057,macbook air
+1313,0.06,macbook air
+1314,0.057,macbook air
+1315,0.057,macbook air
+1316,0.066,macbook air
+1317,0.072,macbook air
+1318,0.069,macbook air
+1319,0.06,macbook air
+1320,0.063,macbook air
+1321,0.066,macbook air
+1322,0.078,macbook air
+1323,0.078,macbook air
+1324,0.066,macbook air
+1325,0.057,macbook air
+1326,0.069,macbook air
+1327,0.072,macbook air
+1328,0.063,macbook air
+1329,0.075,macbook air
+1330,0.057,macbook air
+1331,0.072,macbook air
+1332,0.069,macbook air
+1333,0.057,macbook air
+1334,0.063,macbook air
+1335,0.084,macbook air
+1336,0.078,macbook air
+1337,0.081,macbook air
+1338,0.087,macbook air
+1339,0.096,macbook air
+1340,0.102,macbook air
+1341,0.114,macbook air
+1342,0.102,macbook air
+1343,0.102,macbook air
+1344,0.099,macbook air
+1345,0.093,macbook air
+1346,0.099,macbook air
+1347,0.084,macbook air
+1348,0.084,macbook air
+1349,0.078,macbook air
+1350,0.087,macbook air
+1351,0.084,macbook air
+1352,0.084,macbook air
+1353,0.081,macbook air
+1354,0.09,macbook air
+1355,0.093,macbook air
+1356,0.09,macbook air
+1357,0.093,macbook air
+1358,0.075,macbook air
+1359,0.087,macbook air
+1360,0.084,macbook air
+1361,0.069,macbook air
+1362,0.075,macbook air
+1363,0.069,macbook air
+1364,0.102,macbook air
+1365,0.096,macbook air
+1366,0.078,macbook air
+1367,0.117,macbook air
+1368,0.096,macbook air
+1369,0.096,macbook air
+1370,0.093,macbook air
+1371,0.099,macbook air
+1372,0.093,macbook air
+1373,0.084,macbook air
+1374,0.087,macbook air
+1375,0.084,macbook air
+1376,0.108,macbook air
+1377,0.099,macbook air
+1378,0.09,macbook air
+1379,0.081,macbook air
+1380,0.108,macbook air
+1381,0.087,macbook air
+1382,0.072,macbook air
+1383,0.093,macbook air
+1384,0.093,macbook air
+1385,0.09,macbook air
+1386,0.093,macbook air
+1387,0.084,macbook air
+1388,0.093,macbook air
+1389,0.087,macbook air
+1390,0.078,macbook air
+1391,0.078,macbook air
+1392,0.084,macbook air
+1393,0.084,macbook air
+1394,0.069,macbook air
+1395,0.072,macbook air
+1396,0.072,macbook air
+1397,0.069,macbook air
+1398,0.069,macbook air
+1399,0.072,macbook air
+1400,0.072,macbook air
+1401,0.03,macbook air
+1402,0.063,macbook air
+1403,0.084,macbook air
+1404,0.186,macbook air
+1405,0.219,macbook air
